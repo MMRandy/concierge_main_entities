@@ -1,7 +1,3 @@
----
-description: Details about the associate's inbox
----
-
 # Inbox
 
 | **Field** | **Type** | **Description** |

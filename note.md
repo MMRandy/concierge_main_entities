@@ -1,7 +1,3 @@
----
-description: Used by associates to store notes about the customer.
----
-
 # Note
 
 | **Field** | **Type** | **Description** |

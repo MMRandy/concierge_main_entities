@@ -1,7 +1,3 @@
----
-description: Represents the actual email inside of an inbox
----
-
 # InboxItem
 
 | **Field** | **Type** | **Description** |
