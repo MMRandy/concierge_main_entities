@@ -4,7 +4,7 @@ description: >-
   consumed by the Concierge application.
 ---
 
-# Concierge Entities
+# Entities Definitions for Concierge
 
 Click and Entity link in the left hand menu to view that object's structure.
 
