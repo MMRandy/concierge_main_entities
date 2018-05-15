@@ -4,10 +4,10 @@
 
 | **Field** | **Type** | **Description** |
 | --- | --- | --- | --- | --- |
-| id | String |  |
-| displayName | String |  |
-| value | String |  |
-| type | String |  |
+| id | String | Unique identifier for the customer attribute |
+| displayName | String | Display name for the customer attribute. |
+| value | String | Value for the customer attribute |
+| type | String | The type of customer attribute |
 
 
 
